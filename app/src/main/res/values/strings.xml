@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="smoke_white">#F5F5F5</color>
+
+    <string name="app_name">Portier</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_id">634807706665018</string>
+    <string name="scene_prompt">Select Scene</string>
+    <string name="atmosphere_prompt">Select Stmosphere</string>
+    <string name="city_prompt">Select City</string>
+
+    <string-array name="scene_array">
+        <item>Nightlife</item>
+        <item>Outdoors</item>
+        <item>Dining</item>
+        <item>Touristy</item>
+        <item>College</item>
+        <item>Professional</item>
+        <item>Illegal</item>
+    </string-array>
+    <string-array name="atmosphere_array">
+        <item>Balling</item>
+        <item>Eclectic</item>
+        <item>Casual</item>
+        <item>Thrifty</item>
+    </string-array>
+    <string-array name="city_array">
+        <item>Chicago</item>
+        <item>Los Angeles</item>
+        <item>Boston</item>
+        <item>New York</item>
+    </string-array>
+
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_answers">AnswersActivity</string>
+
+</resources>
